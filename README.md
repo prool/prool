@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @prool
 - 👀 I’m interested in MUDs
-- 🌱 I’m currently learning nasm
+- 🌱 I’m currently learning MUDs
 -    My homepage is prool.kharkov.org
