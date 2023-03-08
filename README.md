@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @prool
-- 👀 I’m interested in MUDs
-- 🌱 I’m currently learning MUDs
+- 👀 I’m interested in programming and other computer science and computer games.
+- 🌱 I’m currently learning many interesting things.
 -    My homepage is prool.kharkov.org
