@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @prool
-- 👀 I’m interested in programming and other computer science and computer games (MUDs, rogue like, Happy Farms, etc)
-- 🌱 I’m currently learning many interesting things.
--    My homepage is prool.kharkov.org
+- 👀 I’m interested in programming and other computer science and computer games (MUDs, rogue like, Happy Farms, Minecraft, Minetest, etc)
+- 🌱 I’m currently learning Deutsch.
+-    My homepage is prool.virtustan.net
