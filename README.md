@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prool
+- 👋 Hallo, I’m @prool
 - 👀 I’m interested in programming and other computer science and computer games (MUDs, rogue like, Happy Farms, Minecraft,
-Luanti/Minetest, etc)
+Luanti/Minetest, WoW, Lineage II, Ragnarok Online, Warcraft 2, etc)
 -    Some my MUD works is in group: https://github.com/MUD-2025 or https://github.com/prool-debug
